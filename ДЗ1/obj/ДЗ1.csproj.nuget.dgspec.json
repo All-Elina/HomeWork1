@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Элина\\Desktop\\GeekBrains\\3. Знакомство с языками программирования\\ДЗ1\\ДЗ1.csproj": {}
+    "C:\\Users\\Элина\\Desktop\\GeekBrains\\3. Знакомство с языками программирования\\HomeWork\\ДЗ1\\ДЗ1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Элина\\Desktop\\GeekBrains\\3. Знакомство с языками программирования\\ДЗ1\\ДЗ1.csproj": {
+    "C:\\Users\\Элина\\Desktop\\GeekBrains\\3. Знакомство с языками программирования\\HomeWork\\ДЗ1\\ДЗ1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Элина\\Desktop\\GeekBrains\\3. Знакомство с языками программирования\\ДЗ1\\ДЗ1.csproj",
+        "projectUniqueName": "C:\\Users\\Элина\\Desktop\\GeekBrains\\3. Знакомство с языками программирования\\HomeWork\\ДЗ1\\ДЗ1.csproj",
         "projectName": "ДЗ1",
-        "projectPath": "C:\\Users\\Элина\\Desktop\\GeekBrains\\3. Знакомство с языками программирования\\ДЗ1\\ДЗ1.csproj",
+        "projectPath": "C:\\Users\\Элина\\Desktop\\GeekBrains\\3. Знакомство с языками программирования\\HomeWork\\ДЗ1\\ДЗ1.csproj",
         "packagesPath": "C:\\Users\\Элина\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Элина\\Desktop\\GeekBrains\\3. Знакомство с языками программирования\\ДЗ1\\obj\\",
+        "outputPath": "C:\\Users\\Элина\\Desktop\\GeekBrains\\3. Знакомство с языками программирования\\HomeWork\\ДЗ1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Элина\\AppData\\Roaming\\NuGet\\NuGet.Config"
